@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<rect x="5" y="5" width="110" height="110" rx="7" fill="#fff" stroke="#c9d9df" stroke-width="3"/>
+<circle cx="60" cy="42" r="29" fill="#0d6b55" stroke="#d9b54a" stroke-width="4"/>
+<circle cx="60" cy="42" r="20" fill="#e9f2e9" stroke="#fff" stroke-width="2"/>
+<path d="M43 49 60 22 77 49H66L60 39 54 49Z" fill="#b51f26"/>
+<path d="M35 65h50" stroke="#b51f26" stroke-width="5"/>
+<text x="60" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="900" fill="#b51f26">NE</text>
+<text x="60" y="98" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" font-weight="700" letter-spacing="1" fill="#12283b">WORKS</text>
+</svg>
